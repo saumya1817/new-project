@@ -1,4 +1,4 @@
-  import { useState,useEffect } from "react"
+import { useState,useEffect } from "react"
 import PortfolioList from "../portfoliolist/PortfolioList"
 import "./Portfolio.scss";
 import { featuredPortfolio,
